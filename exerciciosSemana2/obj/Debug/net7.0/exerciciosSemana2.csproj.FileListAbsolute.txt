@@ -1,0 +1,15 @@
+/home/lucas/FloripaMaisTech/exercicioSemana2/coqueirosmodulo1-semana2-exercicio/exerciciosSemana2/bin/Debug/net7.0/exerciciosSemana2
+/home/lucas/FloripaMaisTech/exercicioSemana2/coqueirosmodulo1-semana2-exercicio/exerciciosSemana2/bin/Debug/net7.0/exerciciosSemana2.deps.json
+/home/lucas/FloripaMaisTech/exercicioSemana2/coqueirosmodulo1-semana2-exercicio/exerciciosSemana2/bin/Debug/net7.0/exerciciosSemana2.runtimeconfig.json
+/home/lucas/FloripaMaisTech/exercicioSemana2/coqueirosmodulo1-semana2-exercicio/exerciciosSemana2/bin/Debug/net7.0/exerciciosSemana2.dll
+/home/lucas/FloripaMaisTech/exercicioSemana2/coqueirosmodulo1-semana2-exercicio/exerciciosSemana2/bin/Debug/net7.0/exerciciosSemana2.pdb
+/home/lucas/FloripaMaisTech/exercicioSemana2/coqueirosmodulo1-semana2-exercicio/exerciciosSemana2/obj/Debug/net7.0/exerciciosSemana2.csproj.AssemblyReference.cache
+/home/lucas/FloripaMaisTech/exercicioSemana2/coqueirosmodulo1-semana2-exercicio/exerciciosSemana2/obj/Debug/net7.0/exerciciosSemana2.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/FloripaMaisTech/exercicioSemana2/coqueirosmodulo1-semana2-exercicio/exerciciosSemana2/obj/Debug/net7.0/exerciciosSemana2.AssemblyInfoInputs.cache
+/home/lucas/FloripaMaisTech/exercicioSemana2/coqueirosmodulo1-semana2-exercicio/exerciciosSemana2/obj/Debug/net7.0/exerciciosSemana2.AssemblyInfo.cs
+/home/lucas/FloripaMaisTech/exercicioSemana2/coqueirosmodulo1-semana2-exercicio/exerciciosSemana2/obj/Debug/net7.0/exerciciosSemana2.csproj.CoreCompileInputs.cache
+/home/lucas/FloripaMaisTech/exercicioSemana2/coqueirosmodulo1-semana2-exercicio/exerciciosSemana2/obj/Debug/net7.0/exerciciosSemana2.dll
+/home/lucas/FloripaMaisTech/exercicioSemana2/coqueirosmodulo1-semana2-exercicio/exerciciosSemana2/obj/Debug/net7.0/refint/exerciciosSemana2.dll
+/home/lucas/FloripaMaisTech/exercicioSemana2/coqueirosmodulo1-semana2-exercicio/exerciciosSemana2/obj/Debug/net7.0/exerciciosSemana2.pdb
+/home/lucas/FloripaMaisTech/exercicioSemana2/coqueirosmodulo1-semana2-exercicio/exerciciosSemana2/obj/Debug/net7.0/exerciciosSemana2.genruntimeconfig.cache
+/home/lucas/FloripaMaisTech/exercicioSemana2/coqueirosmodulo1-semana2-exercicio/exerciciosSemana2/obj/Debug/net7.0/ref/exerciciosSemana2.dll
