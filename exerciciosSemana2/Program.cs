@@ -14,16 +14,27 @@
 // Instanciar a classe no console conforme mostrado em aula
 // criar um objeto da classe FichaInscricao
 
+using Celular;
 using Ficha;
 
 FichaInscricao minhaFicha = new FichaInscricao();
 
 // atribuir valores às propriedades do objeto
 minhaFicha.Id = 1;
-minhaFicha.Nome = "João";
-minhaFicha.DataNascimento = new DateTime(2000, 1, 1);
+minhaFicha.Nome = "Lucas";
+minhaFicha.DataNascimento = new DateTime(1993, 07, 11);
 minhaFicha.MenorIdade = false;
 
 // chamar o método ImprimirDados() para imprimir os dados do objeto no console
 minhaFicha.ImprimirDados();
+
+
+//mensagem celular-------------------------------------------------
+MensagemCelular mensagem = new MensagemCelular();
+mensagem.Telefone = 123456789;
+mensagem.Mensagem = "Olá, mundo!";
+mensagem.Executar();
+
+
+
 

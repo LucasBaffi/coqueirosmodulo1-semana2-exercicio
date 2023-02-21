@@ -12,7 +12,7 @@ namespace Ficha
 public class FichaInscricao
 {
     public int Id { get; set; }
-    public string Nome { get; set; }
+    public string Nome { get; set; }="";
     public DateTime DataNascimento { get; set; }
     public bool MenorIdade { get; set; }
 
