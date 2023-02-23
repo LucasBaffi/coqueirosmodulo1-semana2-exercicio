@@ -8,7 +8,7 @@ namespace Celular
    public class MensagemCelular
 {
     public int Telefone { get; set; }
-    public string Mensagem { get; set; } = "";
+    public string Mensagem { get; set; }= "";
 
     public void Executar()
     {

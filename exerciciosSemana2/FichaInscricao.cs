@@ -18,7 +18,7 @@ public class FichaInscricao
 
     public void ImprimirDados()
     {
-        Console.WriteLine("Código {0}, Nome {1}, Data Nascimento {2}", Id, Nome, DataNascimento);
+        Console.WriteLine("Código {0}, Nome {1}, Data Nascimento {2}", Id, Nome, DataNascimento, MenorIdade);
     }
 }
     }

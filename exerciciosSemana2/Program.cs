@@ -5,6 +5,7 @@
 using Celular;
 using Ficha;
 using somGuitarra;
+using cobranca;
 
 FichaInscricao minhaFicha = new FichaInscricao();
 
@@ -29,6 +30,12 @@ mensagem.Executar();
 guitarra som = new guitarra();
 som.Tocar();
 som.Tocar("dó");
+
+
+//cobrar----------------------
+
+Cobrar valorMulta = new Cobrar(10.55m, 22.36m);
+valorMulta.Calcular();
 
 
 
