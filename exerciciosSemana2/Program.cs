@@ -7,6 +7,9 @@ using Ficha;
 using somGuitarra;
 using cobranca;
 using filmes;
+using animacao;
+
+
 
 FichaInscricao minhaFicha = new FichaInscricao();
 
@@ -44,6 +47,11 @@ Filme filme = new Filme("Pulp Fiction", "Crime, Drama");
 
 Console.WriteLine(filme.InformacoesFilme());
 
+//animacao----------------------------
+
+
+Animacao.Animação();
+Animacao.Animação("Toy Story");
 
 
 
