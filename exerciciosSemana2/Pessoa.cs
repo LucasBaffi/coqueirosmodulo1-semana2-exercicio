@@ -18,7 +18,7 @@ namespace pessoaIdade
             Nome = nome;
             DataNascimento = dataNascimento;
         }
-        private int CalcularIdade()
+        public int CalcularIdade()
         {
             var dataNascimento = new DateTime(1984, 1, 2);
             var dataAtual = DateTime.Now;

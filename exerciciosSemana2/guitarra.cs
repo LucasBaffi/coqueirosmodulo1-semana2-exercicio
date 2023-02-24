@@ -5,11 +5,11 @@ using System.Threading.Tasks;
 
 namespace somGuitarra
 {
-    public class guitarra
+    public class Guitarra
     {
         private static string Afinacao;
 
-        static guitarra()
+        static Guitarra()
         {
             Afinacao = "Sol";
 
