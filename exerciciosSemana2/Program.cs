@@ -8,6 +8,7 @@ using somGuitarra;
 using cobranca;
 using filmes;
 using animacao;
+using pessoaIdade;
 
 
 
@@ -52,6 +53,10 @@ Console.WriteLine(filme.InformacoesFilme());
 
 Animacao.Animação();
 Animacao.Animação("Toy Story");
+
+
+//pessoa-----------------------------
+Pessoa pessoa = new Pessoa("Lucas", new DateTime(1993, 11, 7));
 
 
 
