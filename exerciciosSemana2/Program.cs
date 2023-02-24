@@ -34,7 +34,7 @@ som.Tocar("dó");
 
 //cobrar----------------------
 
-Cobrar valorMulta = new Cobrar(10.55m, 22.36m);
+Cobrar valorMulta = new Cobrar(20.55m, 22.36m);
 valorMulta.Calcular();
 
 
