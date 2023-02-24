@@ -6,6 +6,7 @@ using Celular;
 using Ficha;
 using somGuitarra;
 using cobranca;
+using filmes;
 
 FichaInscricao minhaFicha = new FichaInscricao();
 
@@ -36,6 +37,14 @@ som.Tocar("dó");
 
 Cobrar valorMulta = new Cobrar(20.55m, 22.36m);
 valorMulta.Calcular();
+
+//filme---------------------------------
+
+Filme filme = new Filme("Pulp Fiction", "Crime, Drama");
+
+Console.WriteLine(filme.InformacoesFilme());
+
+
 
 
 
